@@ -37,7 +37,7 @@
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <br><br>
-Simply just Perfect Python coder et node.js
+Simply just Perfect Python coder and JavaScript
 </p>
 <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
@@ -45,8 +45,7 @@ Simply just Perfect Python coder et node.js
 <br>
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/AzawielDev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/sinonaim" target="_blank"><img src="https://img.shields.io/badge/Sinonaim%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"> <a href="https://discord.gg/NPWkgZSKP4" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
