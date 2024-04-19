@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a passionate programmer primarily working with
 ## 📚 I'm currently learning
 
 - Advanced Python programming techniques
-- Full stack development with MERN stack
+- Web development
+- Currently studying for my professional diploma in cybersecurity and networking
 
 ## 📫 How to reach me:
 
