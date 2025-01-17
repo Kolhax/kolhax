@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I'm a passionate programmer primarily working with
 
 ## 📫 How to reach me:
 
-- ~kepardev~ (BANNED) -> `kepardev1`
+- ~kepardev~ (BANNED) -> `kolhaxdev`
 
 Feel free to check out my repositories and don't hesitate to reach out if you have any questions or want to collaborate on a project!
